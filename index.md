@@ -10,7 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
- 63894077968__A66CDE7B-E211-436A-8585-8FB45BBB533E.jpeg
+![Image of Yaktocat]
+(63894077968__A66CDE7B-E211-436A-8585-8FB45BBB533E.jpeg)
+ 
 # Does
 ## This
 ### Work
